@@ -4,7 +4,7 @@
 
 ### IT Support | Data Analytics | Business Intelligence
 
-**Live Website:** [View My Portfolio](https://https://bobbyhayden-portfolio.teleporthq.site)
+**Live Website:** **Live Website:** [View My Portfolio](https://bobbyhayden-portfolio.teleporthq.site)
 
 ## Project Overview
 
